@@ -10,4 +10,4 @@ export default Contact
 
 
 
-//create me a beautiful about page for my travel website with material ui .My travel webiste name is Deram_travel in react
+//create me a beautiful home ppage for my travel website with material ui and inline css .My travel webiste name is  in react. With the background image i'm choosing 'https://wallpapercave.com/dwp1x/wp2481186.jpgDeram_travel
